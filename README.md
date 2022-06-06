@@ -1,6 +1,8 @@
-## Repositório do Desafio da DIO
+## Repositório dos desafios da DIO
 
-Desafio de Projeto da DIO - Primeiro Desafio
+Aqui estarão presentes os futuros desafios de projetos do curso da DIO
+
+-> May the force be with me
 
 
 
